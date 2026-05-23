@@ -22,7 +22,7 @@
 
 | Mode | Link |
 |---|---|
-| 🎥 Live Camera (Jetson + IMX219) | [Watch on Google Drive](https://drive.google.com/your-link-here) |
+| 🎥 Live Camera (Jetson + IMX219) | [Watch on Google Drive](https://drive.google.com/file/d/1_iWiNc-dMbI2SI4B_4IYxkD-XN0X2y3F/view?usp=sharing) |
 | 🎥 TUM fr1/desk Dataset | [Watch on Google Drive](https://drive.google.com/your-link-here) |
 
 > **To update:** replace the three `docs/images/` placeholders with your screenshots and update the Google Drive links above.
