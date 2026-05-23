@@ -15,9 +15,9 @@
 
 ### Visualizer Window (RGB · Depth · Trajectory — all simultaneous)
 
-![Visualizer](With dataset Visualization](<img width="1176" height="679" alt="Screenshot from 2026-05-24 02-08-25" src="https://github.com/user-attachments/assets/5304365e-c44c-4448-9b1c-6ab09f94eac0" />
+![Visualizer](With dataset Visualization]<img width="1176" height="679" alt="Screenshot from 2026-05-24 02-08-25" src="https://github.com/user-attachments/assets/5304365e-c44c-4448-9b1c-6ab09f94eac0" />
 )
-)
+
 
 ### Screen Recordings
 
