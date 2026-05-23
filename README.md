@@ -10,9 +10,8 @@
 ### Live Camera (Jetson Orin Nano Super + IMX219)
 
 | RViz2 — Depth Map & Trajectory | RViz2 — Map Points & Camera Pose |
-|:---:|:---:|
-| ![RViz2 Depth + Trajectory](<img width="1678" height="914" alt="Screenshot 2026-05-24 003136" src="https://github.com/user-attachments/assets/0ffae5b6-6cdf-4dc2-9ca6-21719830ecc7" />) | ![RViz2 Map Points](<img width="1668" height="894" alt="Screenshot 2026-05-24 003149" src="https://github.com/user-attachments/assets/fa1372b3-97b5-4466-b3e7-8ba6f8f2de17" />) |
-
+|:---:|
+| ![RViz2 Depth + Trajectory](<img width="1678" height="914" alt="Screenshot 2026-05-24 003136" src="https://github.com/user-attachments/assets/0ffae5b6-6cdf-4dc2-9ca6-21719830ecc7" />) 
 ### Visualizer Window (RGB · Depth · Trajectory — all simultaneous)
 
 ![Visualizer](With dataset Visualization]<img width="1176" height="679" alt="Screenshot from 2026-05-24 02-08-25" src="https://github.com/user-attachments/assets/5304365e-c44c-4448-9b1c-6ab09f94eac0" />
