@@ -15,7 +15,8 @@
 
 ### Visualizer Window (RGB · Depth · Trajectory — all simultaneous)
 
-![Visualizer](docs/images/visualizer_combined.png)
+![Visualizer](![Uploading Screenshot from 2026-05-24 02-08-25.png…]()
+)
 
 ### Screen Recordings
 
